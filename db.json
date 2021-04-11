@@ -35,6 +35,12 @@
       "description": "Beautiful couch",
       "image": "./images/couch.jpg",
       "location": "Bay Ridge"
+    },
+    {
+      "description": "soccer ball",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEVUcvjRXC_pPl09hvC9mybXdD6BN0DWLfut_swIW6s6H9S2diw4xFGsMkoetAIHF1ZYL_fbjRZLWlMe7ZTAcZHFEbi_iqkH4&usqp=CAc",
+      "location": "Queens",
+      "id": 7
     }
   ]
 }
